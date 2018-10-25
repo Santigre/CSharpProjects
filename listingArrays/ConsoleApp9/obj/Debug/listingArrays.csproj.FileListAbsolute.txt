@@ -1,0 +1,7 @@
+c:\users\student\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+c:\users\student\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+c:\users\student\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+c:\users\student\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\listingArrays.csprojResolveAssemblyReference.cache
+c:\users\student\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\listingArrays.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+c:\users\student\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
