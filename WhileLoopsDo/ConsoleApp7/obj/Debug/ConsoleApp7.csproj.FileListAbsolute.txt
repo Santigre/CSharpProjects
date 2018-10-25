@@ -5,3 +5,10 @@ c:\users\student\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.cspr
 c:\users\student\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
 c:\users\student\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
 c:\users\student\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
+C:\Repositories\CSharpProjects\WhileLoopsDo\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Repositories\CSharpProjects\WhileLoopsDo\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Repositories\CSharpProjects\WhileLoopsDo\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Repositories\CSharpProjects\WhileLoopsDo\ConsoleApp7\obj\Debug\ConsoleApp7.csprojResolveAssemblyReference.cache
+C:\Repositories\CSharpProjects\WhileLoopsDo\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Repositories\CSharpProjects\WhileLoopsDo\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Repositories\CSharpProjects\WhileLoopsDo\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
