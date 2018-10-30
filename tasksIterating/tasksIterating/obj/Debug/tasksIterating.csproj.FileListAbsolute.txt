@@ -1,0 +1,7 @@
+c:\users\student\source\repos\tasksIterating\tasksIterating\bin\Debug\tasksIterating.exe.config
+c:\users\student\source\repos\tasksIterating\tasksIterating\bin\Debug\tasksIterating.exe
+c:\users\student\source\repos\tasksIterating\tasksIterating\bin\Debug\tasksIterating.pdb
+c:\users\student\source\repos\tasksIterating\tasksIterating\obj\Debug\tasksIterating.csprojResolveAssemblyReference.cache
+c:\users\student\source\repos\tasksIterating\tasksIterating\obj\Debug\tasksIterating.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\tasksIterating\tasksIterating\obj\Debug\tasksIterating.exe
+c:\users\student\source\repos\tasksIterating\tasksIterating\obj\Debug\tasksIterating.pdb
