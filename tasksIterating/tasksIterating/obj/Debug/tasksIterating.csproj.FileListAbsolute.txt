@@ -5,3 +5,10 @@ c:\users\student\source\repos\tasksIterating\tasksIterating\obj\Debug\tasksItera
 c:\users\student\source\repos\tasksIterating\tasksIterating\obj\Debug\tasksIterating.csproj.CoreCompileInputs.cache
 c:\users\student\source\repos\tasksIterating\tasksIterating\obj\Debug\tasksIterating.exe
 c:\users\student\source\repos\tasksIterating\tasksIterating\obj\Debug\tasksIterating.pdb
+C:\Repositories\CSharpProjects\tasksIterating\tasksIterating\obj\Debug\tasksIterating.csprojResolveAssemblyReference.cache
+C:\Repositories\CSharpProjects\tasksIterating\tasksIterating\obj\Debug\tasksIterating.csproj.CoreCompileInputs.cache
+C:\Repositories\CSharpProjects\tasksIterating\tasksIterating\obj\Debug\tasksIterating.exe
+C:\Repositories\CSharpProjects\tasksIterating\tasksIterating\obj\Debug\tasksIterating.pdb
+C:\Repositories\CSharpProjects\tasksIterating\tasksIterating\bin\Debug\tasksIterating.exe.config
+C:\Repositories\CSharpProjects\tasksIterating\tasksIterating\bin\Debug\tasksIterating.exe
+C:\Repositories\CSharpProjects\tasksIterating\tasksIterating\bin\Debug\tasksIterating.pdb

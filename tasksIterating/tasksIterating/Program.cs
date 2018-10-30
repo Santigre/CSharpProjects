@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 
 
@@ -69,18 +70,23 @@ class Program
 
         ////////For Each loops///////////////
         List<string> myList = new List<string> { "Car", "Wheel", "Hood", "Wheel", "Break", "Car" };
-        Console.WriteLine("Try to guess my words");
-        string userWord = Console.ReadLine();
-        int count = 0;
+        List<string> emptyList = new List<string> ();
+
 
         foreach (string word in myList)
         {
-            if (word == userWord)
+            if (emptyList.Contains(word))
             {
-                count++;
+                Console.WriteLine(word + " Shows up more than once!");
+            }
+            if (!emptyList.Contains(word))
+            {
+                emptyList.Add(word);
+                Console.WriteLine(word);
             }
         }
-        Console.WriteLine("The word: " + userWord + " shows up in the list " + count + " times");
+
+        Console.WriteLine();
         Console.ReadLine();
 
 
