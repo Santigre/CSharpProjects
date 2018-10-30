@@ -1,0 +1,7 @@
+c:\users\student\source\repos\tryingToCatch\tryingToCatch\bin\Debug\tryingToCatch.exe.config
+c:\users\student\source\repos\tryingToCatch\tryingToCatch\bin\Debug\tryingToCatch.exe
+c:\users\student\source\repos\tryingToCatch\tryingToCatch\bin\Debug\tryingToCatch.pdb
+c:\users\student\source\repos\tryingToCatch\tryingToCatch\obj\Debug\tryingToCatch.csprojResolveAssemblyReference.cache
+c:\users\student\source\repos\tryingToCatch\tryingToCatch\obj\Debug\tryingToCatch.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\tryingToCatch\tryingToCatch\obj\Debug\tryingToCatch.exe
+c:\users\student\source\repos\tryingToCatch\tryingToCatch\obj\Debug\tryingToCatch.pdb
