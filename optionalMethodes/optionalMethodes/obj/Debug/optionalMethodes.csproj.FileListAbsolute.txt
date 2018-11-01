@@ -1,0 +1,7 @@
+c:\users\student\source\repos\optionalMethodes\optionalMethodes\bin\Debug\optionalMethodes.exe.config
+c:\users\student\source\repos\optionalMethodes\optionalMethodes\bin\Debug\optionalMethodes.exe
+c:\users\student\source\repos\optionalMethodes\optionalMethodes\bin\Debug\optionalMethodes.pdb
+c:\users\student\source\repos\optionalMethodes\optionalMethodes\obj\Debug\optionalMethodes.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\optionalMethodes\optionalMethodes\obj\Debug\optionalMethodes.exe
+c:\users\student\source\repos\optionalMethodes\optionalMethodes\obj\Debug\optionalMethodes.pdb
+c:\users\student\source\repos\optionalMethodes\optionalMethodes\obj\Debug\optionalMethodes.csprojResolveAssemblyReference.cache
