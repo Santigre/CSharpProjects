@@ -1,0 +1,7 @@
+c:\users\student\source\repos\mathClass\mathClass\bin\Debug\mathClass.exe.config
+c:\users\student\source\repos\mathClass\mathClass\bin\Debug\mathClass.exe
+c:\users\student\source\repos\mathClass\mathClass\bin\Debug\mathClass.pdb
+c:\users\student\source\repos\mathClass\mathClass\obj\Debug\mathClass.csprojResolveAssemblyReference.cache
+c:\users\student\source\repos\mathClass\mathClass\obj\Debug\mathClass.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\mathClass\mathClass\obj\Debug\mathClass.exe
+c:\users\student\source\repos\mathClass\mathClass\obj\Debug\mathClass.pdb
