@@ -1,0 +1,6 @@
+c:\users\student\source\repos\methodInt\methodInt\bin\Debug\methodInt.exe.config
+c:\users\student\source\repos\methodInt\methodInt\bin\Debug\methodInt.exe
+c:\users\student\source\repos\methodInt\methodInt\bin\Debug\methodInt.pdb
+c:\users\student\source\repos\methodInt\methodInt\obj\Debug\methodInt.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\methodInt\methodInt\obj\Debug\methodInt.exe
+c:\users\student\source\repos\methodInt\methodInt\obj\Debug\methodInt.pdb
