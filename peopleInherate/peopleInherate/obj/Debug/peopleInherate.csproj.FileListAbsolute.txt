@@ -1,0 +1,7 @@
+c:\users\student\source\repos\peopleInherate\peopleInherate\bin\Debug\peopleInherate.exe.config
+c:\users\student\source\repos\peopleInherate\peopleInherate\bin\Debug\peopleInherate.exe
+c:\users\student\source\repos\peopleInherate\peopleInherate\bin\Debug\peopleInherate.pdb
+c:\users\student\source\repos\peopleInherate\peopleInherate\obj\Debug\peopleInherate.csprojResolveAssemblyReference.cache
+c:\users\student\source\repos\peopleInherate\peopleInherate\obj\Debug\peopleInherate.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\peopleInherate\peopleInherate\obj\Debug\peopleInherate.exe
+c:\users\student\source\repos\peopleInherate\peopleInherate\obj\Debug\peopleInherate.pdb
