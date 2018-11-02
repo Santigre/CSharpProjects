@@ -1,0 +1,7 @@
+c:\users\student\source\repos\methodeOutputs\methodeOutputs\bin\Debug\methodeOutputs.exe.config
+c:\users\student\source\repos\methodeOutputs\methodeOutputs\bin\Debug\methodeOutputs.exe
+c:\users\student\source\repos\methodeOutputs\methodeOutputs\bin\Debug\methodeOutputs.pdb
+c:\users\student\source\repos\methodeOutputs\methodeOutputs\obj\Debug\methodeOutputs.csprojResolveAssemblyReference.cache
+c:\users\student\source\repos\methodeOutputs\methodeOutputs\obj\Debug\methodeOutputs.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\methodeOutputs\methodeOutputs\obj\Debug\methodeOutputs.exe
+c:\users\student\source\repos\methodeOutputs\methodeOutputs\obj\Debug\methodeOutputs.pdb
