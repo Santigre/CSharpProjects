@@ -1,0 +1,7 @@
+c:\users\student\source\repos\abstractPeople\abstractPeople\obj\Debug\abstractPeople.csprojResolveAssemblyReference.cache
+c:\users\student\source\repos\abstractPeople\abstractPeople\obj\Debug\abstractPeople.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\abstractPeople\abstractPeople\bin\Debug\abstractPeople.exe.config
+c:\users\student\source\repos\abstractPeople\abstractPeople\bin\Debug\abstractPeople.exe
+c:\users\student\source\repos\abstractPeople\abstractPeople\bin\Debug\abstractPeople.pdb
+c:\users\student\source\repos\abstractPeople\abstractPeople\obj\Debug\abstractPeople.exe
+c:\users\student\source\repos\abstractPeople\abstractPeople\obj\Debug\abstractPeople.pdb
