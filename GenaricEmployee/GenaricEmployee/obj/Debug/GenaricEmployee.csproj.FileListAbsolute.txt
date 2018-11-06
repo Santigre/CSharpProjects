@@ -1,0 +1,7 @@
+c:\users\student\source\repos\GenaricEmployee\GenaricEmployee\bin\Debug\GenaricEmployee.exe.config
+c:\users\student\source\repos\GenaricEmployee\GenaricEmployee\bin\Debug\GenaricEmployee.exe
+c:\users\student\source\repos\GenaricEmployee\GenaricEmployee\bin\Debug\GenaricEmployee.pdb
+c:\users\student\source\repos\GenaricEmployee\GenaricEmployee\obj\Debug\GenaricEmployee.csprojResolveAssemblyReference.cache
+c:\users\student\source\repos\GenaricEmployee\GenaricEmployee\obj\Debug\GenaricEmployee.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\GenaricEmployee\GenaricEmployee\obj\Debug\GenaricEmployee.exe
+c:\users\student\source\repos\GenaricEmployee\GenaricEmployee\obj\Debug\GenaricEmployee.pdb
