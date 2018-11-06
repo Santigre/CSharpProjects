@@ -1,0 +1,7 @@
+c:\users\student\source\repos\OverloadinOp\OverloadinOp\obj\Debug\OverloadinOp.csprojResolveAssemblyReference.cache
+c:\users\student\source\repos\OverloadinOp\OverloadinOp\obj\Debug\OverloadinOp.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\OverloadinOp\OverloadinOp\bin\Debug\OverloadinOp.exe.config
+c:\users\student\source\repos\OverloadinOp\OverloadinOp\bin\Debug\OverloadinOp.exe
+c:\users\student\source\repos\OverloadinOp\OverloadinOp\bin\Debug\OverloadinOp.pdb
+c:\users\student\source\repos\OverloadinOp\OverloadinOp\obj\Debug\OverloadinOp.exe
+c:\users\student\source\repos\OverloadinOp\OverloadinOp\obj\Debug\OverloadinOp.pdb

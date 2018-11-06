@@ -5,3 +5,10 @@ c:\users\student\source\repos\peopleInherate\peopleInherate\obj\Debug\peopleInhe
 c:\users\student\source\repos\peopleInherate\peopleInherate\obj\Debug\peopleInherate.csproj.CoreCompileInputs.cache
 c:\users\student\source\repos\peopleInherate\peopleInherate\obj\Debug\peopleInherate.exe
 c:\users\student\source\repos\peopleInherate\peopleInherate\obj\Debug\peopleInherate.pdb
+C:\Repositories\CSharpProjects\peopleInherate\peopleInherate\bin\Debug\peopleInherate.exe.config
+C:\Repositories\CSharpProjects\peopleInherate\peopleInherate\bin\Debug\peopleInherate.exe
+C:\Repositories\CSharpProjects\peopleInherate\peopleInherate\bin\Debug\peopleInherate.pdb
+C:\Repositories\CSharpProjects\peopleInherate\peopleInherate\obj\Debug\peopleInherate.csprojResolveAssemblyReference.cache
+C:\Repositories\CSharpProjects\peopleInherate\peopleInherate\obj\Debug\peopleInherate.csproj.CoreCompileInputs.cache
+C:\Repositories\CSharpProjects\peopleInherate\peopleInherate\obj\Debug\peopleInherate.exe
+C:\Repositories\CSharpProjects\peopleInherate\peopleInherate\obj\Debug\peopleInherate.pdb
