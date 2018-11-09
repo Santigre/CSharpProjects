@@ -1,0 +1,7 @@
+c:\users\student\source\repos\structNumbers\structNumbers\bin\Debug\structNumbers.exe.config
+c:\users\student\source\repos\structNumbers\structNumbers\bin\Debug\structNumbers.exe
+c:\users\student\source\repos\structNumbers\structNumbers\bin\Debug\structNumbers.pdb
+c:\users\student\source\repos\structNumbers\structNumbers\obj\Debug\structNumbers.csprojResolveAssemblyReference.cache
+c:\users\student\source\repos\structNumbers\structNumbers\obj\Debug\structNumbers.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\structNumbers\structNumbers\obj\Debug\structNumbers.exe
+c:\users\student\source\repos\structNumbers\structNumbers\obj\Debug\structNumbers.pdb
