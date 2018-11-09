@@ -5,3 +5,10 @@ C:\Users\Student\source\repos\blackJack\blackJack\obj\Debug\blackJack.csproj.Cor
 C:\Users\Student\source\repos\blackJack\blackJack\obj\Debug\blackJack.exe
 C:\Users\Student\source\repos\blackJack\blackJack\obj\Debug\blackJack.pdb
 C:\Users\Student\source\repos\blackJack\blackJack\obj\Debug\blackJack.csprojResolveAssemblyReference.cache
+C:\Repositories\CSharpProjects\blackJack\blackJack\bin\Debug\blackJack.exe.config
+C:\Repositories\CSharpProjects\blackJack\blackJack\bin\Debug\blackJack.exe
+C:\Repositories\CSharpProjects\blackJack\blackJack\bin\Debug\blackJack.pdb
+C:\Repositories\CSharpProjects\blackJack\blackJack\obj\Debug\blackJack.csprojResolveAssemblyReference.cache
+C:\Repositories\CSharpProjects\blackJack\blackJack\obj\Debug\blackJack.csproj.CoreCompileInputs.cache
+C:\Repositories\CSharpProjects\blackJack\blackJack\obj\Debug\blackJack.exe
+C:\Repositories\CSharpProjects\blackJack\blackJack\obj\Debug\blackJack.pdb
