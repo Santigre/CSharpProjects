@@ -1,0 +1,7 @@
+c:\users\student\source\repos\enumDays\enumDays\bin\Debug\enumDays.exe.config
+c:\users\student\source\repos\enumDays\enumDays\bin\Debug\enumDays.exe
+c:\users\student\source\repos\enumDays\enumDays\bin\Debug\enumDays.pdb
+c:\users\student\source\repos\enumDays\enumDays\obj\Debug\enumDays.csprojResolveAssemblyReference.cache
+c:\users\student\source\repos\enumDays\enumDays\obj\Debug\enumDays.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\enumDays\enumDays\obj\Debug\enumDays.exe
+c:\users\student\source\repos\enumDays\enumDays\obj\Debug\enumDays.pdb

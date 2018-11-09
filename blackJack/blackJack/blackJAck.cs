@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using blackJack.Interfaces;
+
+namespace blackJack
+{
+    class blackJAck : Game, IWalkAway
+    {
+        public override void Play()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void ListPlayers()
+        {
+            Console.WriteLine("21 Players: ");
+            base.ListPlayers();
+        }
+
+        public void WalkAway(Player player)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}
