@@ -14,27 +14,6 @@ namespace blackJack
 
             Deck deck = new Deck();
 
-            //int count = deck.cards.count(x => x.face == face.ace);
-
-            //List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
-
-            //foreach( Card card in newList)
-            //{
-            //  Console.WriteLine(card.Face);
-            //}
-
-            //Console.WriteLine(count);
-
-            List<int> numberList = new List<int>() {1,2,3,4,5,66};
-
-            int sum = numberList.Where(x => x > 3).Sum();
-
-            //int min = numberList.Min();
-
-            //int min = numberList.Max();
-
-            Console.WriteLine(sum);
-
 
             deck.Shuffle(3);
 
