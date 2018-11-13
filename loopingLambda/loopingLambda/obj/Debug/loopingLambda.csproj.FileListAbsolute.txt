@@ -1,0 +1,7 @@
+c:\users\student\source\repos\loopingLambda\loopingLambda\bin\Debug\loopingLambda.exe.config
+c:\users\student\source\repos\loopingLambda\loopingLambda\bin\Debug\loopingLambda.exe
+c:\users\student\source\repos\loopingLambda\loopingLambda\bin\Debug\loopingLambda.pdb
+c:\users\student\source\repos\loopingLambda\loopingLambda\obj\Debug\loopingLambda.csprojResolveAssemblyReference.cache
+c:\users\student\source\repos\loopingLambda\loopingLambda\obj\Debug\loopingLambda.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\loopingLambda\loopingLambda\obj\Debug\loopingLambda.exe
+c:\users\student\source\repos\loopingLambda\loopingLambda\obj\Debug\loopingLambda.pdb
