@@ -1,0 +1,7 @@
+C:\Repositories\CSharpProjects\loggingNumbers\loggingNumbers\bin\Debug\loggingNumbers.exe.config
+C:\Repositories\CSharpProjects\loggingNumbers\loggingNumbers\bin\Debug\loggingNumbers.exe
+C:\Repositories\CSharpProjects\loggingNumbers\loggingNumbers\bin\Debug\loggingNumbers.pdb
+C:\Repositories\CSharpProjects\loggingNumbers\loggingNumbers\obj\Debug\loggingNumbers.csprojResolveAssemblyReference.cache
+C:\Repositories\CSharpProjects\loggingNumbers\loggingNumbers\obj\Debug\loggingNumbers.csproj.CoreCompileInputs.cache
+C:\Repositories\CSharpProjects\loggingNumbers\loggingNumbers\obj\Debug\loggingNumbers.exe
+C:\Repositories\CSharpProjects\loggingNumbers\loggingNumbers\obj\Debug\loggingNumbers.pdb
