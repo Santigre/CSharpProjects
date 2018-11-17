@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Casino.Interfaces;
 
 namespace Casino.blackJack
-{
+{ 
     public class blackJAck : Game, IWalkAway
     {
         public BlackJackDealer Dealer { get; set; }

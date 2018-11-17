@@ -1,3 +1,7 @@
 C:\Users\Student\source\repos\blackJack\blackJack\obj\Debug\blackJack.csproj.CoreCompileInputs.cache
 C:\Users\Student\source\repos\blackJack\blackJack\obj\Debug\blackJack.csprojResolveAssemblyReference.cache
 C:\Users\Student\source\repos\blackJack\blackJack\obj\Debug\blackJack.csprojAssemblyReference.cache
+C:\Repositories\CSharpProjects\blackJack\blackJack\obj\Debug\blackJack.csprojAssemblyReference.cache
+C:\Repositories\CSharpProjects\blackJack\blackJack\obj\Debug\blackJack.csproj.CoreCompileInputs.cache
+C:\Repositories\CSharpProjects\blackJack\blackJack\obj\Debug\blackJack.exe
+C:\Repositories\CSharpProjects\blackJack\blackJack\obj\Debug\blackJack.pdb

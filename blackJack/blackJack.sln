@@ -5,10 +5,7 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blackJack", "blackJack\blackJack.csproj", "{7D7DE843-9339-43A0-A251-274CB8AF5A82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino", "Casino\Casino.csproj", "{DE506B63-4B65-415A-9ED0-51832DA201DF}"
-	ProjectSection(ProjectDependencies) = postProject
-		{7D7DE843-9339-43A0-A251-274CB8AF5A82} = {7D7DE843-9339-43A0-A251-274CB8AF5A82}
-	EndProjectSection
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Casino", "Casino\Casino.csproj", "{DE506B63-4B65-415A-9ED0-51832DA201DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
