@@ -7,6 +7,7 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using CarInsurance.Models;
+using CarInsurance.ViewModels;
 
 namespace CarInsurance.Controllers
 {
@@ -50,14 +51,95 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = 50.00m;
+
+
+                ///// Checking age here ////
+                ////////////////////////////
+
+                int Age = DateTime.Now.Year - insuree.DateOfBirth.Year;
+                if (Age < 25 || Age > 100)
+                {
+                        insuree.Quote += 25;
+                }
+                if (Age < 18)
+                {
+                    insuree.Quote += 100;
+                }
+                
+                ////Checking car year here////
+                //////////////////////////////  
+                if (insuree.CarYear < 2000 || insuree.CarYear > 2015)
+                {
+                    insuree.Quote += 25;
+                }
+
+                
+                //// Checking car make////
+                //////////////////////////
+                
+                if (insuree.CarMake.ToLower() == "porsche")
+                {
+                    insuree.Quote += 25;
+                }
+
+                if (insuree.CarMake.ToLower() == "porsche" && insuree.CarModel.ToLower() == "911 carrera")
+                {
+                    insuree.Quote += 25;
+                }
+
+                ////Checking for speeding tickets////
+                /////////////////////////////////////
+                if (insuree.SpeedingTickets > 0)
+                {
+                    insuree.Quote += insuree.SpeedingTickets * 10;
+                }
+
+                ////Checking for DUI////
+                ////////////////////////
+                if (insuree.DUI == true)
+                {
+                    insuree.Quote += (insuree.Quote / 4);
+                }
+
+                ////Checking if they have full coverage////
+                ///////////////////////////////////////////
+                if (insuree.CoverageType == true)
+                {
+                    insuree.Quote += (insuree.Quote / 2);
+                }
+
+            }
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
-            }
-
-            return View(insuree);
         }
 
+
+        //public ActionResult Admin()
+        //{
+        //    using (InsuranceEntities db = new InsuranceEntities())
+        //    {
+        //        var insurees = (from x in db.Insurees select x).ToList();
+        //        var insureeVms = new List<InsureeVm>();
+        //        foreach (var insuree in insurees)
+        //        {
+        //            var insureeVm = new InsureeVm();
+        //            insureeVm.Id = insuree.Id;
+        //            insureeVm.FirstName = insuree.FirstName;
+        //            insureeVm.LastName = insuree.LastName;
+        //            insureeVm.EmailAddress = insuree.EmailAddress;
+        //            insureeVm.Quote = insuree.Quote;
+        //        }
+
+        //        return View(insureeVms);
+        //    }
+        //}
+
+        //public ActionResult Admin([Bind(Include = "Id,FirstName,LastName,EmailAddress,Quote")] Insuree insuree)
+        //{
+
+        //}
 
         // GET: Insuree/Edit/5
         public ActionResult Edit(int? id)

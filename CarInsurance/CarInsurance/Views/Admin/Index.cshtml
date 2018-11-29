@@ -1,0 +1,31 @@
+﻿@using CarInsurance.ViewModels
+@model List<InsureeVm>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Admin</h2>
+
+<div class="card shadow">
+    <div class="card-body">
+        @foreach (var insuree in Model)
+        {
+            //using(Html.)
+            <input type="hidden" name="Id" value="@insuree.Id" />
+            <div class="col">
+                @insuree.FirstName
+            </div>
+            <div class="col">
+                @insuree.LastName
+            </div>
+            <div class="col">
+                @insuree.EmailAddress
+            </div>
+            <div class="col">
+                @insuree.Quote
+            </div>
+        }
+    </div>
+</div>
+
