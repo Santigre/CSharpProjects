@@ -1,0 +1,50 @@
+﻿@using CarInsurance.ViewModels
+@model List<InsureeVm>
+@*@model IEnumerable<CarInsurance.ViewModels.InsureeVm>*@
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Admin</h2>
+
+@*<div>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)
+                </td>
+            </tr>
+        }
+        </table>
+</div>*@
+
+<div class="card shadow">
+        <div class="card-body">
+            @foreach (var insuree in Model)
+            {
+                using(Html.DisplayFor(x => x.)
+                <input type="hidden" name="Id" value="@insuree.Id" />
+                <div class="col">
+                    @Html.BeginForm()
+                </div>
+                <div class="col">
+                    @insuree.LastName
+                </div>
+                <div class="col">
+                    @insuree.EmailAddress
+                </div>
+                <div class="col">
+                    @insuree.Quote
+                </div>
+            }
+        </div>
+    </div>
+

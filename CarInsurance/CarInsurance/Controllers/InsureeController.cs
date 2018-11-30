@@ -116,30 +116,26 @@ namespace CarInsurance.Controllers
         }
 
 
-        //public ActionResult Admin()
-        //{
-        //    using (InsuranceEntities db = new InsuranceEntities())
-        //    {
-        //        var insurees = (from x in db.Insurees select x).ToList();
-        //        var insureeVms = new List<InsureeVm>();
-        //        foreach (var insuree in insurees)
-        //        {
-        //            var insureeVm = new InsureeVm();
-        //            insureeVm.Id = insuree.Id;
-        //            insureeVm.FirstName = insuree.FirstName;
-        //            insureeVm.LastName = insuree.LastName;
-        //            insureeVm.EmailAddress = insuree.EmailAddress;
-        //            insureeVm.Quote = insuree.Quote;
-        //        }
+        public ActionResult Admin()
+        {
+            using (InsuranceEntities db = new InsuranceEntities())
+            {
+                var insurees = (from x in db.Insurees select x).ToList();
+                var insureeVms = new List<InsureeVm>();
+                foreach (var insuree in insurees)
+                {
+                    var insureeVm = new InsureeVm();
+                    insureeVm.Id = insuree.Id;
+                    insureeVm.FirstName = insuree.FirstName;
+                    insureeVm.LastName = insuree.LastName;
+                    insureeVm.EmailAddress = insuree.EmailAddress;
+                    insureeVm.Quote = insuree.Quote;
+                }
 
-        //        return View(insureeVms);
-        //    }
-        //}
+                return View(insureeVms);
+            }
+        }
 
-        //public ActionResult Admin([Bind(Include = "Id,FirstName,LastName,EmailAddress,Quote")] Insuree insuree)
-        //{
-
-        //}
 
         // GET: Insuree/Edit/5
         public ActionResult Edit(int? id)
