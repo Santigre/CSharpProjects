@@ -120,7 +120,9 @@ namespace CarInsurance.Controllers
         {
             using (InsuranceEntities db = new InsuranceEntities())
             {
-                var insurees = (from x in db.Insurees select x).ToList();
+                var insurees = (from x in db.Insurees
+                                where x.Id >= 0
+                                select x).ToList();
                 var insureeVms = new List<InsureeVm>();
                 foreach (var insuree in insurees)
                 {
@@ -130,10 +132,12 @@ namespace CarInsurance.Controllers
                     insureeVm.LastName = insuree.LastName;
                     insureeVm.EmailAddress = insuree.EmailAddress;
                     insureeVm.Quote = insuree.Quote;
+                    insureeVms.Add(insureeVm);
                 }
 
+
                 return View(insureeVms);
-            }
+            };
         }
 
 
