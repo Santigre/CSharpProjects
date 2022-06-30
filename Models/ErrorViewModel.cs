@@ -1,6 +1,6 @@
 using System;
 
-namespace JokesWebApp.Models
+namespace RegesterAndLoginApp.Models
 {
     public class ErrorViewModel
     {
